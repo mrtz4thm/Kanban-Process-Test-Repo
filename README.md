@@ -4,4 +4,5 @@
 
 This is only for test purpose of the you-track vcs integration.
 
-1. First Commit -> KP-6  
+1. First Commit -> KP-6 
+2. Second Commit -> KP-5 
